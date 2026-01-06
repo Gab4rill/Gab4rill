@@ -1,14 +1,10 @@
 ## Hi, I'm Gabriel 👋
 
 
-- 🔭 I’m currently working as Web Development
-- 🌱 I’m currently learning <b>Fullstack Development</b>
-- 👯 I’m looking to collaborate on Any Project of Programming
-- 🤔 I’m looking for help with Github/Git/LinkedIn
-- 💬 Ask me about Web Development
+- 🌱 I’m currently learning Html, Css, C++
+- ⚡I'm interest on Growtopia Private Server Project ( Maybe i'll make some project about it in less than 1 month)
 - 📫 How to reach me: insta : @sabdamhesa
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i like listening to music and i'm NiceGang (Bigmo's Gang)
 
 <!--
 **Gab4rill/Gab4rill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
